@@ -38,7 +38,7 @@ A modern React application that fetches and displays posts from the JSONPlacehol
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone
 cd react-project-fetching-data-api
 ```
 
