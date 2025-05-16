@@ -74,8 +74,5 @@ src/
   └── main.jsx      # Application entry point
 ```
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 
