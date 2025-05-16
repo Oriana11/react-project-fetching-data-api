@@ -7,7 +7,7 @@ A modern React application that fetches and displays posts from the JSONPlacehol
 
 ![image](https://github.com/user-attachments/assets/5befe990-b152-461b-818a-73bf16a809e4)
 
-![Uploading chrome_6yUQwB4x3S.gif…]()
+![chrome_6yUQwB4x3S](https://github.com/user-attachments/assets/d07957d0-9bf0-49b8-9533-7b20e8a546cc)
 
 
 ## Features
