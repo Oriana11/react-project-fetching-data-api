@@ -7,6 +7,9 @@ A modern React application that fetches and displays posts from the JSONPlacehol
 
 ![image](https://github.com/user-attachments/assets/5befe990-b152-461b-818a-73bf16a809e4)
 
+![Uploading chrome_6yUQwB4x3S.gif…]()
+
+
 ## Features
 
 - Fetches posts from [JSONPlaceholder API](https://jsonplaceholder.typicode.com/posts)
