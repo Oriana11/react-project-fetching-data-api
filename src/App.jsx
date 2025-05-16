@@ -55,7 +55,7 @@ function App() {
       </main>
       
       <footer className="app-footer">
-        <p>&copy; 2025 Your Blog Name. All rights reserved.</p>
+        <p>&copy; 2025 Blog. All rights reserved.</p>
       </footer>
     </div>
   );
