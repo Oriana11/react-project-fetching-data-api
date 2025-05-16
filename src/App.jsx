@@ -15,9 +15,11 @@ const PostCard = ({ post }) => (
   </article>
 );
 
+import LoadingWheel from './components/LoadingWheel';
+
 const LoadingSpinner = () => (
   <div className="loading-container">
-    <div className="loading-spinner"></div>
+    <LoadingWheel />
     <p>Loading posts...</p>
   </div>
 );
